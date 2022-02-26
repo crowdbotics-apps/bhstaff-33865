@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-push-notifications](backend/modules/push-notifications)
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
+- [django-social-auth](backend/modules/social-auth)
 
 # Getting started: Frontend
 
